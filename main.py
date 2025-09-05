@@ -1,3 +1,9 @@
+"""
+CS202 Lab 1 - Palindrome and Utility Functions
+This module checks for palindrome, counts vowels,
+reverses a string, and counts words.
+Written for GitHub Actions pylint workflow.
+"""
 
 def is_palindrome(text):
     """Return True if the given text is a palindrome."""
@@ -37,4 +43,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
